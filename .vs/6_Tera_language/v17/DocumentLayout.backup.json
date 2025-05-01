@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Games\\compiler\\6_Tera_language\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA778FC4-74E6-42EB-9664-0DCFFBE9AA43}|6_Tera_language\\6_Tera_language.csproj|e:\\games\\compiler\\6_tera_language\\6_tera_language\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA778FC4-74E6-42EB-9664-0DCFFBE9AA43}|6_Tera_language\\6_Tera_language.csproj|solutionrelative:6_tera_language\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA778FC4-74E6-42EB-9664-0DCFFBE9AA43}|6_Tera_language\\6_Tera_language.csproj|e:\\games\\compiler\\6_tera_language\\6_tera_language\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA778FC4-74E6-42EB-9664-0DCFFBE9AA43}|6_Tera_language\\6_Tera_language.csproj|solutionrelative:6_tera_language\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA778FC4-74E6-42EB-9664-0DCFFBE9AA43}|6_Tera_language\\6_Tera_language.csproj|e:\\games\\compiler\\6_tera_language\\6_tera_language\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA778FC4-74E6-42EB-9664-0DCFFBE9AA43}|6_Tera_language\\6_Tera_language.csproj|solutionrelative:6_tera_language\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA778FC4-74E6-42EB-9664-0DCFFBE9AA43}|6_Tera_language\\6_Tera_language.csproj|e:\\games\\compiler\\6_tera_language\\6_tera_language\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA778FC4-74E6-42EB-9664-0DCFFBE9AA43}|6_Tera_language\\6_Tera_language.csproj|solutionrelative:6_tera_language\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA778FC4-74E6-42EB-9664-0DCFFBE9AA43}|6_Tera_language\\6_Tera_language.csproj|e:\\games\\compiler\\6_tera_language\\6_tera_language\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA778FC4-74E6-42EB-9664-0DCFFBE9AA43}|6_Tera_language\\6_Tera_language.csproj|solutionrelative:6_tera_language\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Scanner.cs",
+              "DocumentMoniker": "E:\\Games\\compiler\\6_Tera_language\\6_Tera_language\\Scanner.cs",
+              "RelativeDocumentMoniker": "6_Tera_language\\Scanner.cs",
+              "ToolTip": "E:\\Games\\compiler\\6_Tera_language\\6_Tera_language\\Scanner.cs",
+              "RelativeToolTip": "6_Tera_language\\Scanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:37:26.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Token.cs",
+              "DocumentMoniker": "E:\\Games\\compiler\\6_Tera_language\\6_Tera_language\\Token.cs",
+              "RelativeDocumentMoniker": "6_Tera_language\\Token.cs",
+              "ToolTip": "E:\\Games\\compiler\\6_Tera_language\\6_Tera_language\\Token.cs",
+              "RelativeToolTip": "6_Tera_language\\Token.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:36:44.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Games\\compiler\\6_Tera_language\\6_Tera_language\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "6_Tera_language\\Form1.Designer.cs",
+              "ToolTip": "E:\\Games\\compiler\\6_Tera_language\\6_Tera_language\\Form1.Designer.cs",
+              "RelativeToolTip": "6_Tera_language\\Form1.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:09:32.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Games\\compiler\\6_Tera_language\\6_Tera_language\\Program.cs",
+              "RelativeDocumentMoniker": "6_Tera_language\\Program.cs",
+              "ToolTip": "E:\\Games\\compiler\\6_Tera_language\\6_Tera_language\\Program.cs",
+              "RelativeToolTip": "6_Tera_language\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:22:27.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Games\\compiler\\6_Tera_language\\6_Tera_language\\Form1.cs",
+              "RelativeDocumentMoniker": "6_Tera_language\\Form1.cs",
+              "ToolTip": "E:\\Games\\compiler\\6_Tera_language\\6_Tera_language\\Form1.cs [Design]",
+              "RelativeToolTip": "6_Tera_language\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:18:26.014Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

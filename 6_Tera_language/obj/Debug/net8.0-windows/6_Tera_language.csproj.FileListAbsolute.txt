@@ -1,0 +1,16 @@
+E:\Games\compiler\6_Tera_language\6_Tera_language\bin\Debug\net8.0-windows\6_Tera_language.exe
+E:\Games\compiler\6_Tera_language\6_Tera_language\bin\Debug\net8.0-windows\6_Tera_language.deps.json
+E:\Games\compiler\6_Tera_language\6_Tera_language\bin\Debug\net8.0-windows\6_Tera_language.runtimeconfig.json
+E:\Games\compiler\6_Tera_language\6_Tera_language\bin\Debug\net8.0-windows\6_Tera_language.dll
+E:\Games\compiler\6_Tera_language\6_Tera_language\bin\Debug\net8.0-windows\6_Tera_language.pdb
+E:\Games\compiler\6_Tera_language\6_Tera_language\obj\Debug\net8.0-windows\_6_Tera_language.Form1.resources
+E:\Games\compiler\6_Tera_language\6_Tera_language\obj\Debug\net8.0-windows\6_Tera_language.csproj.GenerateResource.cache
+E:\Games\compiler\6_Tera_language\6_Tera_language\obj\Debug\net8.0-windows\6_Tera_language.GeneratedMSBuildEditorConfig.editorconfig
+E:\Games\compiler\6_Tera_language\6_Tera_language\obj\Debug\net8.0-windows\6_Tera_language.AssemblyInfoInputs.cache
+E:\Games\compiler\6_Tera_language\6_Tera_language\obj\Debug\net8.0-windows\6_Tera_language.AssemblyInfo.cs
+E:\Games\compiler\6_Tera_language\6_Tera_language\obj\Debug\net8.0-windows\6_Tera_language.csproj.CoreCompileInputs.cache
+E:\Games\compiler\6_Tera_language\6_Tera_language\obj\Debug\net8.0-windows\6_Tera_language.dll
+E:\Games\compiler\6_Tera_language\6_Tera_language\obj\Debug\net8.0-windows\refint\6_Tera_language.dll
+E:\Games\compiler\6_Tera_language\6_Tera_language\obj\Debug\net8.0-windows\6_Tera_language.pdb
+E:\Games\compiler\6_Tera_language\6_Tera_language\obj\Debug\net8.0-windows\6_Tera_language.genruntimeconfig.cache
+E:\Games\compiler\6_Tera_language\6_Tera_language\obj\Debug\net8.0-windows\ref\6_Tera_language.dll
