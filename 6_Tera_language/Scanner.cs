@@ -14,10 +14,11 @@ namespace _6_Tera_language
 
             foreach (string line in lines)
             {
-                string[] parts = line.Split(new char[] { ' ', '\t' }, StringSplitOptions.RemoveEmptyEntries);
+                var matches = Regex.Matches(line, @"==|!=|<=|>=|[(){}\[\];,+\-*/=<>]|\d+(\.\d+)?|[a-zA-Z_]\w*");
 
-                foreach (string part in parts)
+                foreach (Match match in matches)
                 {
+                    string part = match.Value;
                     string type = GetTokenType(part);
                     tokens.Add(new Token(part, type, lineNumber));
                 }
@@ -30,7 +31,7 @@ namespace _6_Tera_language
 
         private string GetTokenType(string value)
         {
-            if (Regex.IsMatch(value, @"^\d+$"))
+            if (Regex.IsMatch(value, @"^\d+(\.\d+)?$"))
                 return "number";
             if (value == "int" || value == "real" || value == "void" )
                 return "datatype";

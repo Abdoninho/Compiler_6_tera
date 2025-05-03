@@ -14,3 +14,4 @@ E:\Games\compiler\6_Tera_language\6_Tera_language\obj\Debug\net8.0-windows\refin
 E:\Games\compiler\6_Tera_language\6_Tera_language\obj\Debug\net8.0-windows\6_Tera_language.pdb
 E:\Games\compiler\6_Tera_language\6_Tera_language\obj\Debug\net8.0-windows\6_Tera_language.genruntimeconfig.cache
 E:\Games\compiler\6_Tera_language\6_Tera_language\obj\Debug\net8.0-windows\ref\6_Tera_language.dll
+E:\Games\compiler\6_Tera_language\6_Tera_language\obj\Debug\net8.0-windows\6_Tera_language.sourcelink.json
